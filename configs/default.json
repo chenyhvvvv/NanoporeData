@@ -1,0 +1,13 @@
+{
+  "dataset": {
+    "name": "basefast5",
+    "loc": "/import/home2/yhchenmath/Dataset/ONT/LifeScienceData/20230306_BECKI_2/no_sample/20230306_2119_MN41990_FAT91015_94c8a55c/fast5_pass/",
+    "fast5_list": null,
+    "recursive": true,
+    "buffer_size": 1,
+    "window_size": 2000,
+    "window_overlap": 200,
+    "trim_signal": false
+  }
+}
+
